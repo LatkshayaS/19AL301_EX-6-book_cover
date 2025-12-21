@@ -28,7 +28,8 @@ Insert the images in their appropriate places.
 ## Step 8:
 Publish the website in the LocalHost.
 
-# PROGRAM:```
+# PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
