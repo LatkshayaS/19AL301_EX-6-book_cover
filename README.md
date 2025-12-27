@@ -116,7 +116,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-# OUTPUT:![](BOOK20%COVER.png)
+# OUTPUT:![](book.png)
 
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
